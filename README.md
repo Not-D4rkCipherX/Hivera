@@ -1,4 +1,4 @@
-## BUMS BOT
+## HIVERA BOT
 
 ## BOT FEATURE
 
